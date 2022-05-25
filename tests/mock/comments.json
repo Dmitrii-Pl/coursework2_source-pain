@@ -1,0 +1,20 @@
+[
+  {
+    "post_id": 1,
+    "commenter_name": "leo",
+    "comment": "Очень здорово!",
+    "pk": 1
+  },
+    {
+    "post_id": 1,
+    "commenter_name": "mary",
+    "comment": "Очень здорово!",
+    "pk": 2
+  },
+    {
+    "post_id": 2,
+    "commenter_name": "jerry",
+    "comment": "Очень здорово!",
+    "pk": 3
+  }
+]
